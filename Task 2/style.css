@@ -1,0 +1,27 @@
+body button {
+    display: block;
+    margin: 20px auto;
+    text-align: center;
+    cursor: pointer;
+}
+
+li {
+    list-style: none;
+    width: 30px;
+    height: 30px;
+    background-color: black;
+    margin: 5px;
+    color: white;
+    text-align: center;
+    line-height: 30px;
+    border: 2px solid black;
+    font-size: 18px;
+}
+
+.circle {
+    background-color: white;
+    border-radius: 50%;
+    color: black;
+    border: 2px solid black;
+    font-size: 25px;
+}
