@@ -1,0 +1,14 @@
+div {
+    position: fixed;
+    background-color: green;
+    top: 0%;
+    width: 100%;
+}
+
+body {
+    height: 10000vh;
+}
+
+.red {
+    background-color: red;
+}
